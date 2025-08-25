@@ -2,6 +2,24 @@
 
 ![banner](./images/ai-hackerthon-ms-ndc.jpeg)
 
+## 📑 Table of Contents  
+
+- [AI Hackathon Repository](#ai-hackathon-repository)  
+- [Prerequisites](#prerequisites)  
+  - [Linux Setup](#linux-setup)  
+  - [Windows Setup](#windows-setup)  
+- [Hackathon Timetable](#hackathon-timetable)  
+- [JavaScript Monorepos Documentation](#javascript-monorepos-documentation)  
+  - [What is a Monorepo?](#what-is-a-monorepo)  
+  - [Benefits of Monorepos](#benefits-of-monorepos)  
+  - [Tools for JavaScript Monorepos](#tools-for-javascript-monorepos)  
+- [AI-Assisted Development Documentation](#ai-assisted-development-documentation)  
+  - [What is AI-Assisted Development?](#what-is-ai-assisted-development)  
+  - [Benefits of AI-Assisted Development](#benefits-of-ai-assisted-development)  
+  - [Microsoft Tools for AI-Assisted Development](#microsoft-tools-for-ai-assisted-development)  
+  - [Getting Started with AI-Assisted Development](#getting-started-with-ai-assisted-development)  
+
+
 # AI Hackathon Repository  
 
 Welcome to the official repository for the **AI Hackathon** under the theme **AI-Assisted Development and JavaScript Monorepos**.  
@@ -36,27 +54,6 @@ Before starting, make sure your environment is set up.
         sudo apt install snap -y
         sudo snap install code --classic
 
-### Windows Setup
-For Windows users, download and install the following:
-
-- Git for Windows
-- Node.js (v18 LTS)
-- Visual Studio Code
-
-
-## Hackathon Timetable
-
-| Time          | Activity                                           |
-|---------------|---------------------------------------------------|
-| **09:00 – 09:30** | Registration & Icebreaker                        |
-| **09:30 – 10:00** | Opening + Explain Theme, Rules & Resources        |
-| **10:00 – 12:30** | Hacking Session 1                                |
-| **12:30 – 01:30** | Snacks & Networking                              |
-| **01:30 – 03:30** | Hacking Session 2 + Mentors Roaming              |
-| **03:30 – 04:00** | Demos, Judging, Prizes, and Closing              |
-
-
-
 ### Windows Setup  
 
 For Windows users, download and install the following:  
@@ -71,6 +68,19 @@ After installation, confirm versions in **PowerShell**:
     node -v
     npm -v
 ```
+
+## Hackathon Timetable
+
+| Time          | Activity                                           |
+|---------------|---------------------------------------------------|
+| **09:00 – 09:30** | Registration & Icebreaker                        |
+| **09:30 – 10:00** | Opening + Explain Theme, Rules & Resources        |
+| **10:00 – 12:30** | Hacking Session 1                                |
+| **12:30 – 01:30** | Snacks & Networking                              |
+| **01:30 – 03:30** | Hacking Session 2 + Mentors Roaming              |
+| **03:30 – 04:00** | Demos, Judging, Prizes, and Closing              |
+
+
 
 ## JavaScript Monorepos Documentation  
 
