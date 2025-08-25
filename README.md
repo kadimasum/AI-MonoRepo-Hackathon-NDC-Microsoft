@@ -2,7 +2,7 @@
 
 ![banner](./images/ai-hackerthon-ms-ndc.jpeg)
 
-## 📑 Table of Contents  
+## Table of Contents  
 
 - [AI Hackathon Repository](#ai-hackathon-repository)  
 - [Prerequisites](#prerequisites)  
