@@ -67,7 +67,7 @@ Judges will score each project on a **1–10 scale** for each category:
 ## Resources  
 
 - [Microsoft AI Tools](https://learn.microsoft.com/en-us/ai/)  
-- [Hackathon Rules](./RULES.md)  
+- [Hackathon Rules](./JUDGES-RULES.md)  
 
 ---
 
