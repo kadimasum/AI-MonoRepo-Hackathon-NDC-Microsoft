@@ -32,7 +32,7 @@ Before the hackathon, please ensure:
 | Time          | Activity                            | Notes |
 |---------------|-------------------------------------|-------|
 | **09:00 - 09:30** | Judges Briefing & Orientation        | Overview of criteria & scoring |
-| **10:00 - 16:00** | Team Hacking Session                | Judges may observe |
+| **10:00 - 16:00** | Team Hacking Session                | Judges may observe and mentor |
 | **15:30 - 16:00** | Project Presentations & Demos       | Each team presents, Scoring |
 
 ---
