@@ -206,6 +206,4 @@ function factorial(n) {
 - [Submit Here](https://docs.google.com/spreadsheets/d/1Dt1DRwAGPqEb3g5nMsNwCvlxG3tcYFzV-l6plw5WZps/edit?usp=sharing)
 
 ### Join Teams
-- [Link](https://teams.microsoft.com/meet/2256742904583?p=lXClC8ibAFRHa7aOLv)
-- Meeting ID: 225 674 290 458 3 
-- Passcode: Em77md3C
+- [Link](https://teams.microsoft.com/meet/2938560478344?p=qhNUh5UOtfAykhk6Tx)
