@@ -200,3 +200,7 @@ function factorial(n) {
 ```
 ### Resources
 - [RULES](./RULES.md) 
+
+
+### Submit Your Work
+- [Submit Here](https://docs.google.com/spreadsheets/d/1Dt1DRwAGPqEb3g5nMsNwCvlxG3tcYFzV-l6plw5WZps/edit?usp=sharing)
